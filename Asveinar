@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asveinar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>L'Espace et le Gaming</h1>
+        <nav>
+            <ul>
+                <li><a href="#espace">L'Espace</a></li>
+                <li><a href="#gaming">Jeux Vidéo</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="espace">
+        <h2>L'Univers Mystérieux</h2>
+        <p>L'espace est un lieu fascinant, plein de mystères et de merveilles. Des planètes aux étoiles, en passant par les trous noirs, découvrez les secrets de l'univers.</p>
+        <div class="image">
+            <img src="https://via.placeholder.com/600x300" alt="Image de l'espace">
+        </div>
+    </section>
+
+    <section id="gaming">
+        <h2>Jeux Vidéo sur le Thème de l'Espace</h2>
+        <ul>
+            <li><strong>No Man's Sky</strong> - Explorez des planètes infinies dans un univers généré de manière procédurale.</li>
+            <li><strong>Elite Dangerous</strong> - Volez à travers la galaxie et devenez un pilote légendaire.</li>
+            <li><strong>Star Wars: Squadrons</strong> - Pilotez des chasseurs stellaires dans l'univers de Star Wars.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 L'Espace et le Gaming - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
